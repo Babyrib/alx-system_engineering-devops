@@ -8,3 +8,4 @@ adds execute permission tothe owner of the file hello
 7.adds execution permission to the owner,the group owner and the other users to the file hello
 8.sets the permission to the file hello
 9.set the mode of the file hello
+10.Sets the mode of the file hello the same as olleh's mode
